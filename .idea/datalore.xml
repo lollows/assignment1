@@ -3,6 +3,21 @@
   <component name="DatalorePublishingService">
     <option name="notebookMapping">
       <map>
+        <entry key="21266">
+          <value>
+            <map>
+              <entry key="IrpYh0qFFR8bjfRgfz0TU8">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="K0cWFX6wZeAIb4WknvIX9p" />
+                    <option name="link" value="https://view.datalore.io/notebook/K0cWFX6wZeAIb4WknvIX9p" />
+                    <option name="owner" value="IrpYh0qFFR8bjfRgfz0TU8" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
         <entry key="80391">
           <value>
             <map>
@@ -19,6 +34,36 @@
             </map>
           </value>
         </entry>
+        <entry key="80392">
+          <value>
+            <map>
+              <entry key="IrpYh0qFFR8bjfRgfz0TU8">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="8ItOMraqWdPS6PBv5eo80z" />
+                    <option name="link" value="https://view.datalore.io/notebook/8ItOMraqWdPS6PBv5eo80z" />
+                    <option name="owner" value="IrpYh0qFFR8bjfRgfz0TU8" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+        <entry key="80394">
+          <value>
+            <map>
+              <entry key="IrpYh0qFFR8bjfRgfz0TU8">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="V5yB1Xm99voNaPx6nq9cz3" />
+                    <option name="link" value="https://view.datalore.io/notebook/V5yB1Xm99voNaPx6nq9cz3" />
+                    <option name="owner" value="IrpYh0qFFR8bjfRgfz0TU8" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
         <entry key="80395">
           <value>
             <map>
@@ -27,6 +72,21 @@
                   <PublishedNotebookState>
                     <option name="id" value="6iiVYSZz2Fp3ygvV0v8Ywp" />
                     <option name="link" value="https://view.datalore.io/notebook/6iiVYSZz2Fp3ygvV0v8Ywp" />
+                    <option name="owner" value="IrpYh0qFFR8bjfRgfz0TU8" />
+                  </PublishedNotebookState>
+                </value>
+              </entry>
+            </map>
+          </value>
+        </entry>
+        <entry key="89105">
+          <value>
+            <map>
+              <entry key="IrpYh0qFFR8bjfRgfz0TU8">
+                <value>
+                  <PublishedNotebookState>
+                    <option name="id" value="OlHEW1331LsgBH2DcjiWJm" />
+                    <option name="link" value="https://view.datalore.io/notebook/OlHEW1331LsgBH2DcjiWJm" />
                     <option name="owner" value="IrpYh0qFFR8bjfRgfz0TU8" />
                   </PublishedNotebookState>
                 </value>
